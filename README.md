@@ -1,6 +1,10 @@
 # CityNet Optimizer - Smart City Network & Resource Planner
 Mini Project : Design and Analysis of Algorithms (DAA)
-
+## Author
+# Name: Aditya Mangalam
+# UID: 26MCC20078
+# Chandigarh University
+# Assigned By: Rajan Saluja (E15748)
 ## Project structure
 ```
 CityNet_Optimizer/
